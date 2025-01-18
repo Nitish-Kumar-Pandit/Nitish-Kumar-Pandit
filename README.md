@@ -55,9 +55,9 @@ Check out more of my projects [here](https://github.com/Nitish-Kumar-Pandit?tab=
 
 ## 🌐 Connect with Me
 
-- **Portfolio**: [YourPortfolioLink](https://my-portfolio-five-gamma-86.vercel.app/)
+- **Portfolio**: [Portfolio](https://my-portfolio-five-gamma-86.vercel.app/)
 - **LinkedIn**: [Nitish Kumar Pandit](www.linkedin.com/in/nitishkumarpandittt)
-- **Email**: [nitishkumar@example.com](mailto:nitishkumarpandit312@gmail.com)
+- **Email**: [mail](mailto:nitishkumarpandit312@gmail.com)
 
 ---
 
