@@ -51,32 +51,32 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack**, wi
 
 ## 🌟 Featured Projects
 
-### 🔗 [ShrinkLink](https://github.com/Nitish-Kumar-Pandit/ShrinkLink)
+### 🔗 [ShrinkLink](https://github.com/nitishkumarpandittt/ShrinkLink)
 A modern, feature-rich URL shortener application with analytics and management capabilities.
 - **Tech Stack:** React 19, Node.js, Express, MongoDB
 - **Features:** URL shortening, click analytics, user management, secure API
 
-### 💻 [CompileX](https://github.com/Nitish-Kumar-Pandit/CompileX) 
+### 💻 [CompileX](https://github.com/nitishkumarpandittt/CompileX) 
 An online code editor and compiler supporting multiple programming languages.
 - **Tech Stack:** Full-stack web application
 - **Features:** Multi-language support, real-time compilation, clean UI
 
-### 📁 [ModiFile](https://github.com/Nitish-Kumar-Pandit/ModiFile)
+### 📁 [ModiFile](https://github.com/nitishkumarpandittt/ModiFile)
 A high-performance file conversion platform with premium UI and smooth animations.
 - **Tech Stack:** Next.js 15, TypeScript
 - **Features:** Multiple format support, glassmorphic design, professional-grade conversions
 
-### 💬 [WaveLink](https://github.com/Nitish-Kumar-Pandit/WaveLink)
+### 💬 [WaveLink](https://github.com/nitishkumarpandittt/WaveLink)
 A modern real-time chat application with robust features and clean design.
 - **Tech Stack:** React, Vite, Appwrite
 - **Features:** Real-time messaging, responsive design, modern UI
 
-### 💰 [CashTrack](https://github.com/Nitish-Kumar-Pandit/CashTrack)
+### 💰 [CashTrack](https://github.com/nitishkumarpandittt/CashTrack)
 An intuitive expense tracker for personal finance management.
 - **Tech Stack:** JavaScript, Node.js
 - **Features:** Income/expense tracking, financial insights, user-friendly interface
 
-### 📍 [Realtime-Tracker](https://github.com/Nitish-Kumar-Pandit/Realtime-Tracker)
+### 📍 [Realtime-Tracker](https://github.com/nitishkumarpandittt/Realtime-Tracker)
 Real-time device location monitoring with interactive maps.
 - **Tech Stack:** Node.js, Express, Socket.IO, Leaflet
 - **Features:** Live tracking, interactive maps, real-time updates
@@ -84,15 +84,15 @@ Real-time device location monitoring with interactive maps.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitish-Kumar-Pandit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishkumarpandittt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish-Kumar-Pandit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumarpandittt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-Kumar-Pandit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkumarpandittt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎯 2025 Goals
